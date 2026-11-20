@@ -1,26 +1,24 @@
 # Avery Terrell 👋
 
-**CompTIA Security+ · Regulatory compliance & risk operations · AI-enabled software builder**
+**CompTIA Security+ · Regulated-operations compliance leader · SaaS & AI application builder**
 
-I combine seven years of operations management in a heavily regulated transportation environment with hands-on experience designing and launching SaaS and mobile applications. I'm bringing that experience into **cybersecurity governance, risk & compliance (GRC), security assurance, and AI governance**.
+I'm bringing seven years of management experience in a heavily regulated transportation environment together with hands-on SaaS and mobile product development as I pursue **cybersecurity GRC, security compliance, AI governance, and technical operations**.
 
-### What I bring
-- **Regulated operations:** Lead safety, training, qualification and regulatory compliance work within a UPS transportation operation supporting approximately 400 drivers.
-- **Process and evidence:** Document observations, investigate exceptions, drive corrective actions, and communicate requirements to frontline and management stakeholders.
-- **Technology:** Founder of [Inspectra Software](https://inspectraapp.com), an AI-assisted home-inspection SaaS; created CDL Master, a published iOS training app.
-- **Professional certification:** CompTIA Security+; Full Stack Network Associate (FSNA).
+## Experience that transfers
+- **Regulatory controls and evidence:** Supervise training, safety, driver qualification and compliance processes supporting approximately 400 drivers at UPS.
+- **Risk and remediation:** Review operational exceptions, document observations, coach corrective action and translate policy into repeatable procedures.
+- **Software delivery:** Founded [Inspectra Software](https://inspectraapp.com) and launched AI-assisted SaaS workflows; also published an iOS training application.
+- **Certifications:** CompTIA Security+ and Full Stack Network Associate (FSNA).
 
-### Portfolio highlights
-- **Inspectra SaaS case study** — product design, inspection reporting, AI-assisted appliance information and subscription workflows.
-- **CDL Master case study** — turning complex training procedures into an accessible iOS experience.
-- **GRC risk register demo** — small Python exercise for documenting and scoring *synthetic* security risks, with tests.
-- **AI governance evaluation demo** — transparent evaluation rubric and Python summaries using *synthetic, pre-labelled* assessments.
+## Featured case studies
+- 🛠️ [**Inspectra — AI-assisted SaaS**](https://github.com/Phreaker666/inspectra-saas-case-study): Product requirements, inspection reporting, Appliance Guru, subscription workflow, testing and iteration.
+- 📱 [**CDL Master — published iOS training app**](https://github.com/Phreaker666/cdl-master-ios-case-study): Translating complex safety-training procedures into practical learning software, reported use by 500+ trainees/users.
 
-### Direction
-Seeking **fully remote GRC, security compliance, AI governance, and technical operations roles**. I value clear controls, accountable follow-up, defensible documentation, and practical technology.
+## Learning and building
+Preparing public educational demonstrations of a **GRC risk register** and **AI-governance evaluation** with entirely synthetic examples. These coding projects remain private until their published files pass validation. I don't claim professional ownership of SOC 2 or ISO 27001 certification audits.
 
-### Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/inspectra-software-7274143b4/)
-- 🛠️ [Inspectra Software](https://inspectraapp.com)
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/inspectra-software-7274143b4/)
+- [Inspectra Software](https://inspectraapp.com)
 
-*The demonstration projects use synthetic examples. I do not publish private production source code, customer information, or confidential employer materials. My transportation compliance experience is relevant to governance work, but I don't represent it as prior SOC 2 or ISO 27001 audit ownership.*
+*These case studies do not include confidential UPS documentation, customer data, credentials, or Inspectra production source code.*
